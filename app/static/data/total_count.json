@@ -1,0 +1,97 @@
+[
+    {
+        "flavor": "vanilla",
+        "votes": 309,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/079ed5a3-b33a-453f-be2a-25fef1c0b4b4.png"
+    },
+    {
+        "flavor": "chocolate",
+        "votes": 362,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/2a5a7201-cae0-41dd-94e1-331a5b01cad8.png"
+    },
+    {
+        "flavor": "mango",
+        "votes": 228,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/5706c6d8-cc48-459a-aff2-c7de87bd3dd8.png"
+    },
+    {
+        "flavor": "strawberry",
+        "votes": 455,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/6571c18d-227c-490a-b644-aa75be6b379c.png"
+    },
+    {
+        "flavor": "rocky road",
+        "votes": 473,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/de67ed5b-14c2-4e69-8d2f-08d070c25375.png"
+    },
+    {
+        "flavor": "sherbet",
+        "votes": 252,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/4f90df5b-57c6-4dfd-b4cc-312483cbb753.png"
+    },
+    {
+        "flavor": "peanut butter",
+        "votes": 119,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/f85adea5-0b20-43d1-ac76-f5b1b54a02d0.png"
+    },
+    {
+        "flavor": "pineapple",
+        "votes": 409,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/de59b4ec-a490-4509-9264-6e0e777b1802.png"
+    },
+    {
+        "flavor": "cookies n' cream",
+        "votes": 247,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/4bd549c0-baf3-4371-9a7e-f994610d7ab6.png"
+    },
+    {
+        "flavor": "mint chocolate chip",
+        "votes": 224,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/3398d688-44c1-413d-b98f-e21472ef0ea0.png"
+    },
+    {
+        "flavor": "almond fudge",
+        "votes": 9,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/1ef8ece9-a708-4280-a5a3-e487ee158cbc.png"
+    },
+    {
+        "flavor": "chocolate fudge",
+        "votes": 99,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/bef7d81d-4916-48fc-aba4-6ac80aca3bcd.png"
+    },
+    {
+        "flavor": "cotton candy",
+        "votes": 261,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/0578ccd3-8a78-42bd-a0b3-0d1a49ccce95.png"
+    },
+    {
+        "flavor": "chocolate chip",
+        "votes": 383,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/d8ef5646-c70a-441d-9e5c-db8c052e56db.png"
+    },
+    {
+        "flavor": "cookie dough",
+        "votes": 69,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/2d1421c1-dfef-4388-a867-0183cad6de4e.png"
+    },
+    {
+        "flavor": "cherry",
+        "votes": 424,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/c6fd1dea-242d-415e-bfc1-377e4bc222fd.png"
+    },
+    {
+        "flavor": "caramel",
+        "votes": 446,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/9412381a-96e0-4987-bcde-1ecc7826de44.png"
+    },
+    {
+        "flavor": "cheesecake",
+        "votes": 46,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/31e91186-a009-43bf-b3aa-a699cb811b90.png"
+    },
+    {
+        "flavor": "pumpkin",
+        "votes": 168,
+        "image": "https://brm-cdn.tillster.com/us/prod/data/menu/9e312e87-c110-4e4a-a6cc-fe5531bebf41.png"
+    }                       
+]
