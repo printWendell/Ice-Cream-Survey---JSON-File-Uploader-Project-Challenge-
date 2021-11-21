@@ -10,7 +10,7 @@ def returnSortedList(data):
     icecream = sortedList[:5]
     return(icecream)
 
-@app.route('/')
+@app.route('/api/', methods=['GET'])
 def get_json_file():
     with open("app/static/data/total_count.json") as file:
         data = json.load(file)
@@ -19,7 +19,7 @@ def get_json_file():
         res = make_response(jsonify(returnSortedList(data)),200)
         return res
 
-@app.route('/add_votes')
+@app.route('/api/add_votes/', methods=['GET', 'POST'])
 def update_json_file():
     if request.method == "POST":
         upload_file = request.files['file_upload']
@@ -61,7 +61,13 @@ def update_json_file():
 
     else:
         # if request is a GET route
-        return redirect(url_for(update_json_file))
+        # rr = {"some": "data"}
+        # res = make_response(jsonify(rr), 200)
+        message={
+            'status': 400,
+            "message": 'Not a valid method for this route'
+        }
+        return make_response(jsonify(message), 400)
 
 
 if __name__ == '__main__':
