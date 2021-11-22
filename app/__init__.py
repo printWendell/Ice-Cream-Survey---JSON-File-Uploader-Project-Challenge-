@@ -60,9 +60,6 @@ def update_json_file():
             return redirect(url_for('update_json_file', message=message)), 400
 
     else:
-        # if request is a GET route
-        # rr = {"some": "data"}
-        # res = make_response(jsonify(rr), 200)
         message={
             'status': 400,
             "message": 'Not a valid method for this route'
